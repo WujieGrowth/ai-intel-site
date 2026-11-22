@@ -1,55 +1,82 @@
 {
-  "fetchedAt": "2026-11-22T11:41:38Z",
+  "fetchedAt": "2026-11-22T12:06:17Z",
   "sources": [
     {
       "id": "arxiv-cs",
       "ok": true,
       "fetched": 8,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     },
     {
       "id": "nist-it",
       "ok": true,
       "fetched": 12,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 3
     },
     {
       "id": "openai-news",
       "ok": true,
       "fetched": 10,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     },
     {
       "id": "deepmind-blog",
       "ok": true,
       "fetched": 10,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     },
     {
       "id": "huggingface-blog",
       "ok": true,
       "fetched": 10,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     },
     {
       "id": "claude-platform-notes",
       "ok": true,
       "fetched": 10,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     },
     {
       "id": "mistral-news",
       "ok": true,
       "fetched": 10,
       "error": null,
-      "notModified": false
+      "notModified": false,
+      "skippedFuture": 0
     }
   ],
-  "keptPrevious": false
+  "keptPrevious": false,
+  "quarantine": [
+    {
+      "id": "nist-it-https-www-nist-gov-node-1921866",
+      "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop",
+      "raw": "Tue, 08 Dec 2026 08:30:00 -0500",
+      "certainty": "complete"
+    },
+    {
+      "id": "nist-it-https-www-nist-gov-node-1923236",
+      "sourceUrl": "https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop",
+      "raw": "Wed, 24 Feb 2027 00:00:00 -0500",
+      "certainty": "complete"
+    },
+    {
+      "id": "nist-it-https-www-nist-gov-node-1924066",
+      "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
+      "raw": "Thu, 10 Dec 2026 12:00:00 -0500",
+      "certainty": "complete"
+    }
+  ]
 }

@@ -8,6 +8,7 @@ import { fetchAllowlisted } from "./fetch";
 import { signalToItem } from "./map";
 import { parseArxiv, parseRss } from "./parse";
 import { selectSignals } from "./select";
+import { splitFutureItems } from "./future";
 
 const itemsPath = new URL("../data/published/items.json", import.meta.url);
 const sitePath = new URL("../data/published/site.json", import.meta.url);
@@ -21,6 +22,7 @@ interface HealthRow {
   fetched: number;
   error: string | null;
   notModified: boolean;
+  skippedFuture: number;
 }
 
 interface FeedCache {
@@ -70,6 +72,7 @@ async function main(): Promise<void> {
           fetched: previous.filter((item) => item.id.startsWith(`${source.id}-`)).length,
           error: null,
           notModified: true,
+          skippedFuture: 0,
         });
       } else {
         const parsed = source.kind === "arxiv-api" ? parseArxiv(fetched.body) : parseRss(fetched.body);
@@ -77,17 +80,21 @@ async function main(): Promise<void> {
           .map((signal) => signalToItem(source, signal, fetchedAt))
           .filter((item): item is PublicItem => item !== null);
         fresh.push(...mapped);
-        health.push({ id: source.id, ok: true, fetched: mapped.length, error: null, notModified: false });
+        health.push({ id: source.id, ok: true, fetched: mapped.length, error: null, notModified: false, skippedFuture: 0 });
       }
       await new Promise((resolve) => setTimeout(resolve, source.rateLimitMs));
     } catch (error) {
       const message = error instanceof Error ? error.message : "fetch-failed";
-      health.push({ id: source.id, ok: false, fetched: 0, error: message, notModified: false });
+      health.push({ id: source.id, ok: false, fetched: 0, error: message, notModified: false, skippedFuture: 0 });
     }
   }
   const anyOk = health.some((row) => row.ok);
   const merged = merge(previous, anyOk ? dedupAgainst(previous, fresh) : []);
-  const published = capPublished(merged, PUBLIC_FEED_CAP);
+  const dated = splitFutureItems(merged, Date.parse(fetchedAt));
+  for (const row of health) {
+    row.skippedFuture = dated.quarantined.filter((record) => record.id.startsWith(`${row.id}-`)).length;
+  }
+  const published = capPublished(dated.keep, PUBLIC_FEED_CAP);
   const historyIds = retainHistoryIds(
     readHistoryIds(),
     merged.map((item) => item.id),
@@ -99,7 +106,7 @@ async function main(): Promise<void> {
   const site = JSON.parse(readFileSync(sitePath, "utf8")) as { updatedAt: string };
   if (anyOk) site.updatedAt = fetchedAt;
   writeFileSync(sitePath, `${JSON.stringify(site, null, 2)}\n`);
-  writeFileSync(healthPath, `${JSON.stringify({ fetchedAt, sources: health, keptPrevious: !anyOk }, null, 2)}\n`);
+  writeFileSync(healthPath, `${JSON.stringify({ fetchedAt, sources: health, keptPrevious: !anyOk, quarantine: dated.quarantined }, null, 2)}\n`);
   writeFileSync(cachePath, `${JSON.stringify(cache, null, 2)}\n`);
   console.log(JSON.stringify({ fetchedAt, anyOk, count: published.length, health }));
 }

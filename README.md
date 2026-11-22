@@ -36,7 +36,7 @@ npm run smoke:base
 PUBLIC_BASE_PATH=/ai-intel-site/ PUBLIC_SITE_URL=https://wujiegrowth.github.io npm run build
 ```
 
-`npm run collect` 只抓取注册表里 `channel` 为 `native-public` 且 `scheduled` 为 true 的来源。失败时保留上一份已发布数据。
+`npm run collect` 只抓取注册表里 `channel` 为 `native-public` 且 `scheduled` 为 true 的来源。失败时保留上一份已发布数据。来源时间比采集时钟晚过 24 小时的条目不进入页面或 RSS，原始时间只记在健康记录里，不会改写成当前时间。
 
 ## 生财私人桥
 

@@ -1,0 +1,32 @@
+{
+  "sources": {
+    "arxiv-cs": {
+      "etag": null,
+      "lastModified": null
+    },
+    "nist-it": {
+      "etag": "\"1795347066-gzip\"",
+      "lastModified": "Sun, 22 Nov 2026 11:31:06 GMT"
+    },
+    "deepmind-blog": {
+      "etag": "\"lsMrTQ\"",
+      "lastModified": null
+    },
+    "huggingface-blog": {
+      "etag": "W/\"4217c-lsdoxghiK3DBEQ5fzRniwnuc+GU\"",
+      "lastModified": null
+    },
+    "claude-platform-notes": {
+      "etag": null,
+      "lastModified": null
+    },
+    "mistral-news": {
+      "etag": "W/\"188b9a6783e5f60e527b88fdc61b7089-ssl\"",
+      "lastModified": null
+    },
+    "openai-news": {
+      "etag": null,
+      "lastModified": null
+    }
+  }
+}

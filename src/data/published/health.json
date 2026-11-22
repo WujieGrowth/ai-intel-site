@@ -1,17 +1,54 @@
 {
-  "fetchedAt": "2026-11-22T11:26:16Z",
+  "fetchedAt": "2026-11-22T11:40:25Z",
   "sources": [
     {
       "id": "arxiv-cs",
       "ok": true,
       "fetched": 8,
-      "error": null
+      "error": null,
+      "notModified": false
     },
     {
       "id": "nist-it",
       "ok": true,
       "fetched": 12,
-      "error": null
+      "error": null,
+      "notModified": false
+    },
+    {
+      "id": "openai-news",
+      "ok": true,
+      "fetched": 10,
+      "error": null,
+      "notModified": false
+    },
+    {
+      "id": "deepmind-blog",
+      "ok": true,
+      "fetched": 10,
+      "error": null,
+      "notModified": false
+    },
+    {
+      "id": "huggingface-blog",
+      "ok": true,
+      "fetched": 10,
+      "error": null,
+      "notModified": false
+    },
+    {
+      "id": "claude-platform-notes",
+      "ok": true,
+      "fetched": 10,
+      "error": null,
+      "notModified": false
+    },
+    {
+      "id": "mistral-news",
+      "ok": true,
+      "fetched": 10,
+      "error": null,
+      "notModified": false
     }
   ],
   "keptPrevious": false

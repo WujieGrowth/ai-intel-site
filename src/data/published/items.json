@@ -1,5 +1,874 @@
 [
   {
+    "id": "arxiv-cs-2611-26601v1",
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "topics": [
+      "预印本",
+      "人工智能"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+      "作者：Amine Lbath、Manan Suri、Aurelien Delaitre、Vadim Okun、Massih-Reza Amini、Dinesh Manocha",
+      "来源页：https://arxiv.org/abs/2611.26601v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26601v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:54:19Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:54",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26603v1",
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "topics": [
+      "预印本",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "作者：Peiyun Hu、Marko Mihajlovic、Lyndon Duong、Lahav Lipson、Wei Dong、Amaël Delaunoy、Stephan R. Richter、Vladlen Koltun",
+      "来源页：https://arxiv.org/abs/2611.26603v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26603v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:55:41Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:55",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26607v1",
+    "title": "Bio-PM-Guided Synthetic IMU Generation",
+    "topics": [
+      "预印本",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Bio-PM-Guided Synthetic IMU Generation",
+      "作者：Deepali Singh、Deepesh Parpani、Aviral Gupta",
+      "来源页：https://arxiv.org/abs/2611.26607v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26607v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:56:25Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:56",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26613v1",
+    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+    "topics": [
+      "预印本",
+      "语言"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "作者：Yiyang Du、Yuxuan Kuang、Qitao Zhao、Yixuan Wang、Zhanqiu Guo、Yi Xu、Xin Li、Wenbin He",
+      "来源页：https://arxiv.org/abs/2611.26613v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26613v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:57:25Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:57",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26617v1",
+    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+    "topics": [
+      "预印本",
+      "人工智能",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "作者：Yuxin Jiang、Wenqiang Sun、Jiaqi Li、Yuchao Gu、Lvmin Zhang、Ivor Tsang、Mike Zheng Shou",
+      "来源页：https://arxiv.org/abs/2611.26617v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26617v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:58:14Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:58",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26619v1",
+    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "topics": [
+      "预印本",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "作者：Jinbin Luo、Xiaozhe Yao、Shang Yang、Zhijian Liu、Song Han、Qinghao Hu",
+      "来源页：https://arxiv.org/abs/2611.26619v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26619v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:58:31Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:58",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26624v1",
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "topics": [
+      "预印本",
+      "人工智能"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "作者：Weihao Cheng",
+      "来源页：https://arxiv.org/abs/2611.26624v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26624v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:59:34Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-26627v1",
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "topics": [
+      "预印本",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "作者：Tuna Han Salih Meral、Kaan Oktay、Alec Helbling、Atakan Kara、Duen Horng Chau、Pinar Yanardag",
+      "来源页：https://arxiv.org/abs/2611.26627v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.26627v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-19T18:59:53Z",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1921866",
+    "title": "Second Semiconductor Traceability and Provenance Workshop",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Second Semiconductor Traceability and Provenance Workshop",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop",
+    "sourcePublishedAt": {
+      "raw": "Tue, 08 Dec 2026 08:30:00 -0500",
+      "year": 2026,
+      "month": 12,
+      "day": 8,
+      "time": "13:30",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1921871",
+    "title": "Comments on Software and Agentic AI Identity Concept Paper",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Comments on Software and Agentic AI Identity Concept Paper",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper",
+    "sourcePublishedAt": {
+      "raw": "Tue, 29 Sep 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 9,
+      "day": 29,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1922036",
+    "title": "Draft 5G White Paper Now Available: False Base Station",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Draft 5G White Paper Now Available: False Base Station",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station",
+    "sourcePublishedAt": {
+      "raw": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 9,
+      "day": 30,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1922431",
+    "title": "NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security",
+    "sourcePublishedAt": {
+      "raw": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 10,
+      "day": 8,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923236",
+    "title": "6th NIST Quantum Matters in Material Sciences (QMMS) Workshop",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：6th NIST Quantum Matters in Material Sciences (QMMS) Workshop",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop",
+    "sourcePublishedAt": {
+      "raw": "Wed, 24 Feb 2027 00:00:00 -0500",
+      "year": 2027,
+      "month": 2,
+      "day": 24,
+      "time": "05:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923241",
+    "title": "WPEC2026",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：WPEC2026",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/events/2026/10/wpec2026"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/events/2026/10/wpec2026",
+    "sourcePublishedAt": {
+      "raw": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "year": 2026,
+      "month": 10,
+      "day": 26,
+      "time": "04:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923481",
+    "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
+    "sourcePublishedAt": {
+      "raw": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 10,
+      "day": 29,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923916",
+    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924066",
+    "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
+    "sourcePublishedAt": {
+      "raw": "Thu, 10 Dec 2026 12:00:00 -0500",
+      "year": 2026,
+      "month": 12,
+      "day": 10,
+      "time": "17:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924076",
+    "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+    "sourcePublishedAt": {
+      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924126",
+    "title": "NCCoE Update: Change to CRADA Consortium Announcements",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NCCoE Update: Change to CRADA Consortium Announcements",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements",
+    "sourcePublishedAt": {
+      "raw": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 12,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924131",
+    "title": "Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl",
+    "sourcePublishedAt": {
+      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:14Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
     "id": "origin-7e05f18a131f6778",
     "title": "Anthropic 发布联合创始人访谈视频",
     "topics": [
@@ -82,875 +951,6 @@
     "publication": {
       "confirmed": true,
       "note": "公开原文已核实。由生财私人桥发现，不是官方转载，Actions 未调用该接口。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26601v1",
-    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
-    "topics": [
-      "预印本",
-      "人工智能"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
-      "作者：Amine Lbath、Manan Suri、Aurelien Delaitre、Vadim Okun、Massih-Reza Amini、Dinesh Manocha",
-      "来源页：https://arxiv.org/abs/2611.26601v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26601v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:54:19Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:54",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26603v1",
-    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
-      "作者：Peiyun Hu、Marko Mihajlovic、Lyndon Duong、Lahav Lipson、Wei Dong、Amaël Delaunoy、Stephan R. Richter、Vladlen Koltun",
-      "来源页：https://arxiv.org/abs/2611.26603v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26603v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:55:41Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:55",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26607v1",
-    "title": "Bio-PM-Guided Synthetic IMU Generation",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Bio-PM-Guided Synthetic IMU Generation",
-      "作者：Deepali Singh、Deepesh Parpani、Aviral Gupta",
-      "来源页：https://arxiv.org/abs/2611.26607v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26607v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:56:25Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:56",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26613v1",
-    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
-    "topics": [
-      "预印本",
-      "语言"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
-      "作者：Yiyang Du、Yuxuan Kuang、Qitao Zhao、Yixuan Wang、Zhanqiu Guo、Yi Xu、Xin Li、Wenbin He",
-      "来源页：https://arxiv.org/abs/2611.26613v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26613v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:57:25Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:57",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26617v1",
-    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-    "topics": [
-      "预印本",
-      "人工智能",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-      "作者：Yuxin Jiang、Wenqiang Sun、Jiaqi Li、Yuchao Gu、Lvmin Zhang、Ivor Tsang、Mike Zheng Shou",
-      "来源页：https://arxiv.org/abs/2611.26617v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26617v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:58:14Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:58",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26619v1",
-    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
-      "作者：Jinbin Luo、Xiaozhe Yao、Shang Yang、Zhijian Liu、Song Han、Qinghao Hu",
-      "来源页：https://arxiv.org/abs/2611.26619v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26619v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:58:31Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:58",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26624v1",
-    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
-    "topics": [
-      "预印本",
-      "人工智能"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：PlayCraft: Designing Engaging Games from Agent Play Experience",
-      "作者：Weihao Cheng",
-      "来源页：https://arxiv.org/abs/2611.26624v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26624v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:59:34Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-26627v1",
-    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：RL Post-Training in Diffusion Transformers Is Activation Steering",
-      "作者：Tuna Han Salih Meral、Kaan Oktay、Alec Helbling、Atakan Kara、Duen Horng Chau、Pinar Yanardag",
-      "来源页：https://arxiv.org/abs/2611.26627v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.26627v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-19T18:59:53Z",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "18:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1921866",
-    "title": "Second Semiconductor Traceability and Provenance Workshop",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Second Semiconductor Traceability and Provenance Workshop",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/second-semiconductor-traceability-and-provenance-workshop",
-    "sourcePublishedAt": {
-      "raw": "Tue, 08 Dec 2026 08:30:00 -0500",
-      "year": 2026,
-      "month": 12,
-      "day": 8,
-      "time": "13:30",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1921871",
-    "title": "Comments on Software and Agentic AI Identity Concept Paper",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Comments on Software and Agentic AI Identity Concept Paper",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper",
-    "sourcePublishedAt": {
-      "raw": "Tue, 29 Sep 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 9,
-      "day": 29,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1922036",
-    "title": "Draft 5G White Paper Now Available: False Base Station",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Draft 5G White Paper Now Available: False Base Station",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station",
-    "sourcePublishedAt": {
-      "raw": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 9,
-      "day": 30,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1922431",
-    "title": "NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security",
-    "sourcePublishedAt": {
-      "raw": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 10,
-      "day": 8,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923236",
-    "title": "6th NIST Quantum Matters in Material Sciences (QMMS) Workshop",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：6th NIST Quantum Matters in Material Sciences (QMMS) Workshop",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/events/2027/02/6th-nist-quantum-matters-material-sciences-qmms-workshop",
-    "sourcePublishedAt": {
-      "raw": "Wed, 24 Feb 2027 00:00:00 -0500",
-      "year": 2027,
-      "month": 2,
-      "day": 24,
-      "time": "05:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923241",
-    "title": "WPEC2026",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：WPEC2026",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/events/2026/10/wpec2026"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/events/2026/10/wpec2026",
-    "sourcePublishedAt": {
-      "raw": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "year": 2026,
-      "month": 10,
-      "day": 26,
-      "time": "04:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923481",
-    "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
-    "sourcePublishedAt": {
-      "raw": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 10,
-      "day": 29,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923916",
-    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924066",
-    "title": "NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NIST CSF 2.0 Semiconductor Manufacturing Profile Kick-Off Webinar",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/events/2026/12/nist-csf-20-semiconductor-manufacturing-profile-kick-webinar",
-    "sourcePublishedAt": {
-      "raw": "Thu, 10 Dec 2026 12:00:00 -0500",
-      "year": 2026,
-      "month": 12,
-      "day": 10,
-      "time": "17:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924076",
-    "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
-    "sourcePublishedAt": {
-      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924126",
-    "title": "NCCoE Update: Change to CRADA Consortium Announcements",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NCCoE Update: Change to CRADA Consortium Announcements",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements",
-    "sourcePublishedAt": {
-      "raw": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 12,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924131",
-    "title": "Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl",
-    "sourcePublishedAt": {
-      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T10:54:31Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
     }
   }
 ]

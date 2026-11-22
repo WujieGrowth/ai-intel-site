@@ -1,0 +1,41 @@
+<p class="demo-seal" role="img" aria-label="演示">
+  <span aria-hidden="true">演</span>
+  <span aria-hidden="true">示</span>
+</p>
+
+<style>
+  .demo-seal {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    place-items: center;
+    width: 4.15rem;
+    height: 4.15rem;
+    margin: 0.2rem 0.2rem 0 0;
+    flex: 0 0 auto;
+    background: var(--seal);
+    color: var(--seal-ink);
+    font-family: var(--serif);
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1;
+    box-shadow:
+      inset 0 0 0 2px var(--seal-ink),
+      inset 0 0 0 4px var(--seal),
+      inset 0 0 0 5px rgba(248, 241, 228, 0.85);
+    transform: rotate(-8deg);
+  }
+
+  .demo-seal span {
+    display: grid;
+    place-items: center;
+    width: 100%;
+  }
+
+  @media (max-width: 720px) {
+    .demo-seal {
+      width: 3.5rem;
+      height: 3.5rem;
+      font-size: 1.2rem;
+    }
+  }
+</style>

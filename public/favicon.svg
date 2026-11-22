@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="示界">
+  <title>示界</title>
+  <rect width="32" height="32" fill="#9e342c"/>
+  <rect x="2.75" y="2.75" width="26.5" height="26.5" fill="none" stroke="#f8f1e4" stroke-width="1.3"/>
+  <rect x="5" y="5" width="22" height="22" fill="none" stroke="#f8f1e4" stroke-width="0.6"/>
+  <text x="16" y="14.6" text-anchor="middle" font-size="8.5" fill="#f8f1e4" font-family="serif">示</text>
+  <text x="16" y="24.2" text-anchor="middle" font-size="8.5" fill="#f8f1e4" font-family="serif">界</text>
+</svg>

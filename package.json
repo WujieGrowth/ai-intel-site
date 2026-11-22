@@ -1,0 +1,33 @@
+{
+  "name": "shijie-ai-intel-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "示界：arXiv 与 NIST 的公开来源静态站。生财桥未接入。",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build",
+    "preview": "astro preview --host 127.0.0.1",
+    "sync": "astro sync",
+    "check": "astro check && tsc --noEmit",
+    "test": "vitest run",
+    "test:unit": "vitest run tests/unit",
+    "test:integration": "vitest run tests/integration",
+    "scan": "node scripts/scan-static.mjs",
+    "smoke:base": "node scripts/smoke-base-path.mjs",
+    "cli": "tsx cli/index.ts",
+    "collect": "tsx src/collect/run.ts",
+    "accept-verified": "tsx scripts/merge-verified.ts"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "astro": "^7.4.13",
+    "happy-dom": "^21.0.4",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.1"
+  }
+}

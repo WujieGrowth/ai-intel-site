@@ -1,0 +1,23 @@
+:root {
+  --bg: #f1e4cd;
+  --bg-elevated: #faf4e7;
+  --ink: #1b1612;
+  --ink-soft: #5c5348;
+  --line: #d0c0a4;
+  --cinnabar: #9e342c;
+  --ochre: #8a5610;
+  --slate: #2b5a4e;
+  --focus: #1b1612;
+  --banner: #2a201b;
+  --banner-ink: #f6efe3;
+  --max: 72rem;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif SC", serif;
+  --sans: "Avenir Next", "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  --seal: #9e342c;
+  --seal-ink: #f8f1e4;
+  --rule: #1b1612;
+  --hit: 44px;
+  --gutter: 1.25rem;
+  --masthead: clamp(2.7rem, 6vw, 4.15rem);
+  color-scheme: light;
+}

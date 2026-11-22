@@ -1,0 +1,153 @@
+---
+import { withBase } from "../../lib/paths";
+import DemoSeal from "./DemoSeal.astro";
+
+interface Props {
+  site: {
+    name: string;
+    tagline: string;
+    updatedAt: string;
+    demo: boolean;
+  };
+  current: "latest" | "archive" | "detail";
+}
+
+const { site, current } = Astro.props;
+---
+
+<header class="site-header">
+  <div class="masthead">
+    <div class="masthead-copy">
+      <p class="brand"><a href={withBase("")}>{site.name}</a></p>
+      <p class="tagline">{site.tagline}</p>
+    </div>
+    {site.demo && <DemoSeal />}
+  </div>
+  <div class="masthead-rule" aria-hidden="true"></div>
+  <div class="masthead-bar">
+    <p class="updated">
+      站点更新时间 <time datetime={site.updatedAt}>{site.updatedAt}</time>
+    </p>
+    <nav aria-label="目录">
+      <a href={withBase("")} aria-current={current === "latest" ? "page" : undefined}>最新</a>
+      <a href={withBase("archive/")} aria-current={current === "archive" ? "page" : undefined}>归档</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    padding: 1.35rem 0 0.4rem;
+  }
+
+  .masthead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem 1.5rem;
+  }
+
+  .masthead-copy {
+    min-width: 0;
+  }
+
+  .brand {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: var(--masthead);
+    font-weight: 600;
+    line-height: 0.95;
+    letter-spacing: 0.12em;
+  }
+
+  .brand a {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--hit);
+    text-decoration: none;
+  }
+
+  .tagline {
+    margin: 0.4rem 0 0;
+    max-width: 38rem;
+    font-size: 0.98rem;
+    line-height: 1.55;
+  }
+
+  .masthead-rule {
+    height: 3px;
+    margin: 0.9rem 0 0.75rem;
+    border-top: 1px solid var(--rule);
+    border-bottom: 3px solid var(--rule);
+  }
+
+  .masthead-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .updated {
+    margin: 0;
+    font-size: 0.92rem;
+  }
+
+  .updated time {
+    font-family: var(--serif);
+    font-variant-numeric: tabular-nums;
+  }
+
+  nav[aria-label="目录"] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.35rem;
+  }
+
+  nav[aria-label="目录"] a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: var(--hit);
+    min-height: var(--hit);
+    padding: 0 0.85rem;
+    border-bottom: 2px solid transparent;
+    font-family: var(--serif);
+    letter-spacing: 0.16em;
+    text-decoration: none;
+  }
+
+  nav[aria-label="目录"] a[aria-current="page"] {
+    border-bottom-color: var(--cinnabar);
+    color: var(--cinnabar);
+  }
+
+  @media (max-width: 720px) {
+    .site-header {
+      padding-top: 1.1rem;
+    }
+
+    .masthead {
+      align-items: flex-start;
+    }
+
+    .brand {
+      font-size: 2.35rem;
+      letter-spacing: 0.08em;
+    }
+
+    .masthead-bar {
+      align-items: stretch;
+      flex-direction: column;
+    }
+
+    nav[aria-label="目录"] {
+      width: 100%;
+    }
+
+    nav[aria-label="目录"] a {
+      flex: 1 1 0;
+    }
+  }
+</style>

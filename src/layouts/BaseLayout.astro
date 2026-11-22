@@ -1,0 +1,99 @@
+---
+import "../styles/global.css";
+import { getSiteMeta } from "../data/public";
+import { withBase } from "../lib/paths";
+import DemoBanner from "../components/chrome/DemoBanner.astro";
+import SiteFooter from "../components/chrome/SiteFooter.astro";
+import SiteHeader from "../components/chrome/SiteHeader.astro";
+import SkipLink from "../components/chrome/SkipLink.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  current?: "latest" | "archive" | "detail";
+}
+
+const { title, description, current = "latest" } = Astro.props;
+const site = getSiteMeta();
+const fullTitle = title === site.name ? `${site.name} · ${site.tagline}` : `${title} · ${site.name}`;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const rssHref = withBase("rss.xml");
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="zh_CN" />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="alternate" type="application/rss+xml" title={site.name} href={rssHref} />
+    <link rel="icon" href={withBase("favicon.svg")} />
+    <slot name="head" />
+  </head>
+  <body>
+    <SkipLink />
+    {site.demo ? (
+      <DemoBanner />
+    ) : (
+      <p class="source-notice">公开来源：arXiv 元数据与 NIST。生财AI情报未接入，会员内容不收录。不预测收入。</p>
+    )}
+    <SiteHeader site={site} current={current} />
+    <p class="rss-subscribe"><a href={rssHref}>订阅 RSS</a></p>
+    <main id="main">
+      <slot />
+    </main>
+    <SiteFooter />
+  </body>
+</html>
+
+<style>
+  .source-notice {
+    margin: 0;
+    padding: 0.7rem var(--gutter);
+    background: var(--banner);
+    color: var(--banner-ink);
+    border-bottom: 2px solid var(--cinnabar);
+    font-family: var(--serif);
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+    line-height: 1.55;
+    text-align: center;
+  }
+
+  @media (max-width: 720px) {
+    .source-notice {
+      padding: 0.75rem 1rem;
+      letter-spacing: 0.02em;
+      text-align: start;
+    }
+  }
+
+  .rss-subscribe {
+    width: min(var(--max), calc(100% - 2.5rem));
+    margin: 0.15rem auto 0;
+    text-align: end;
+  }
+
+  .rss-subscribe a {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--hit);
+    font-family: var(--serif);
+    letter-spacing: 0.16em;
+    text-decoration: none;
+  }
+
+  @media (max-width: 720px) {
+    .rss-subscribe {
+      width: min(var(--max), calc(100% - 1.5rem));
+      text-align: start;
+    }
+  }
+</style>

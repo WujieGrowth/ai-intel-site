@@ -1,0 +1,69 @@
+---
+import type { PublicItem } from "../../contract/types";
+import { formatCoverage, formatPriority } from "../../contract/format";
+import { withBase } from "../../lib/paths";
+import "../../styles/pages.css";
+
+interface Props {
+  items: PublicItem[];
+  catalogEmptyText: string;
+}
+
+const { items, catalogEmptyText } = Astro.props;
+const topics = [...new Set(items.flatMap((item) => item.topics))];
+const priorities = ["P0", "P1", "P2"] as const;
+---
+
+<div data-filter-root>
+  <div class="filters">
+    <div class="search-field" role="search">
+      <label for="published-search">搜索</label>
+      <input id="published-search" type="search" name="q" data-search autocomplete="off" spellcheck="false" aria-controls="published-items" />
+    </div>
+    <fieldset>
+      <legend>主题</legend>
+      <button type="button" data-topic="all" aria-pressed="true">全部</button>
+      {topics.map((topic) => (
+        <button type="button" data-topic={topic} aria-pressed="false">{topic}</button>
+      ))}
+    </fieldset>
+    <fieldset>
+      <legend>优先级</legend>
+      <button type="button" data-priority="all" aria-pressed="true">全部</button>
+      {priorities.map((priority) => (
+        <button type="button" data-priority={priority} aria-pressed="false">{priority}</button>
+      ))}
+    </fieldset>
+    <button type="button" data-reset>重置</button>
+  </div>
+  <p class="script-note">不运行脚本时，下面列出当前范围的全部已发布条目。</p>
+  <p class="count" data-count aria-live="polite">显示 {items.length} / {items.length}</p>
+  <p class="filter-zero" data-empty hidden>没有同时符合当前主题与优先级的示例。</p>
+  <p class="catalog-empty" data-catalog-empty hidden={items.length > 0}>{catalogEmptyText}</p>
+  <ul class="cards" id="published-items">
+    {items.map((item) => (
+      <li
+        data-card
+        data-priority={item.priority}
+        data-topics={item.topics.join(",")}
+        data-title={item.title}
+        data-source-name={item.sourceName}
+        data-facts={JSON.stringify(item.facts)}
+        data-analysis={item.analysis}
+      >
+        <p class="demo-pill">{item.demo ? "演示" : "公开来源"}</p>
+        <h2><a href={withBase(`items/${item.id}/`)}>{item.title}</a></h2>
+        <p class="priority" data-level={item.priority}>{formatPriority(item.priority)}</p>
+        <p class="meta">来源：{item.sourceName} · 主题：{item.topics.join("、")}</p>
+        <p class="coverage-line">{formatCoverage(item.coverage)}</p>
+      </li>
+    ))}
+  </ul>
+</div>
+
+<script>
+  import { bindFilters } from "../../scripts/filter-ui";
+  import { bindSearch } from "../../scripts/search-ui";
+  bindFilters();
+  bindSearch();
+</script>

@@ -1,0 +1,48 @@
+{
+  "kind": "verified-public-origins",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "evidenceUrl": "https://x.com/AnthropicAI/status/2123822989154369958",
+      "title": "Anthropic 发布联合创始人访谈视频",
+      "facts": [
+        "Anthropic 官方 X 账号发布了一条公开帖。",
+        "本条只记录这条公开帖，不描述视频里的具体内容。"
+      ],
+      "sourceLabel": "Anthropic",
+      "discoveredVia": "scys-private-bridge",
+      "verified": true,
+      "endorsement": false,
+      "sourcePublishedAt": {
+        "raw": "2026-11-20T16:57:13Z",
+        "year": 2026,
+        "month": 11,
+        "day": 20,
+        "time": "16:57",
+        "timezone": "Z",
+        "certainty": "complete"
+      }
+    },
+    {
+      "evidenceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Google 官方博客介绍 Gemini 4 Neon",
+      "facts": [
+        "Google 官方博客介绍 Gemini 4 Neon，面向软件工程、知识工作与科学流程。",
+        "具体能力与价格以原文为准，本条不摘录数字。"
+      ],
+      "sourceLabel": "Google",
+      "discoveredVia": "scys-private-bridge",
+      "verified": true,
+      "endorsement": false,
+      "sourcePublishedAt": {
+        "raw": "2026-11-18",
+        "year": 2026,
+        "month": 11,
+        "day": 18,
+        "time": null,
+        "timezone": null,
+        "certainty": "date-only"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "fetchedAt": "2026-11-22T10:54:31Z",
+  "sources": [
+    {
+      "id": "arxiv-cs",
+      "ok": true,
+      "fetched": 8,
+      "error": null
+    },
+    {
+      "id": "nist-it",
+      "ok": true,
+      "fetched": 12,
+      "error": null
+    }
+  ],
+  "keptPrevious": false
+}

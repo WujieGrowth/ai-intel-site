@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ItemList from "../components/feed/ItemList.astro";
+import { getLatestItems, getSiteMeta } from "../data/public";
+import { SOURCE_REGISTRY, sourceStatusLabel } from "../data/sources/registry";
+import { withBase } from "../lib/paths";
+
+const site = getSiteMeta();
+const items = getLatestItems();
+---
+
+<BaseLayout title={site.name} description={site.description} current="latest">
+  <h1>最新</h1>
+  <p class="lede">{site.description}</p>
+  <p class="limit-note">{site.limitNote}</p>
+  <ItemList items={items} catalogEmptyText="最新列表还没有已发布条目。" />
+  <section aria-labelledby="sources-title">
+    <h2 id="sources-title">来源状态</h2>
+    <ul class="source-status">
+      {SOURCE_REGISTRY.map((source) => (
+        <li><strong>{source.name}</strong>：{sourceStatusLabel(source)}</li>
+      ))}
+    </ul>
+  </section>
+  <p><a href={withBase("archive/")}>查看归档</a></p>
+</BaseLayout>
+
+<style>
+  .source-status {
+    margin: 0.4rem 0 1.2rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .source-status li {
+    margin: 0.35rem 0;
+    line-height: 1.55;
+  }
+</style>

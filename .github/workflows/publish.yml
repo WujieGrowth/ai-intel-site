@@ -1,0 +1,58 @@
+name: Publish
+on:
+  schedule:
+    # 00:00 UTC, 08:00 Asia/Shanghai.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    # A commit that only touches collected data must not start another run.
+    paths-ignore:
+      - src/data/published/**
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      ASTRO_TELEMETRY_DISABLED: "1"
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      # Collect updates src/data/published in place. A thrown collect stops the job, so the previous files stay.
+      - run: npm run collect
+      - name: Commit published data when it changed
+        run: |
+          git add -- src/data/published
+          if git diff --cached --quiet -- src/data/published; then
+            echo "src/data/published unchanged"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update published source data"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+      - run: npm run build
+        env:
+          PUBLIC_BASE_PATH: /ai-intel-site/
+          PUBLIC_SITE_URL: https://wujiegrowth.github.io
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

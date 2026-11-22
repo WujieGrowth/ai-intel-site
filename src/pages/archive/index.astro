@@ -1,0 +1,17 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ItemList from "../../components/feed/ItemList.astro";
+import { getPublishedItems } from "../../data/public";
+
+const items = getPublishedItems();
+---
+
+<BaseLayout
+  title="归档"
+  description="示界归档列出当前已发布的公开来源条目，没有分页。生财AI情报不在这个列表里。"
+  current="archive"
+>
+  <h1>归档</h1>
+  <p class="lede">归档列出当前已发布的公开来源条目，没有分页。这里不是生财AI情报。</p>
+  <ItemList items={items} catalogEmptyText="公开目录里还没有已发布的示例。" />
+</BaseLayout>

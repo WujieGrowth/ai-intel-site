@@ -1,0 +1,10 @@
+{
+  "name": "示界",
+  "tagline": "一份可公开审阅的 AI 情报静态演示",
+  "description": "示界用合成示例展示情报如何分开事实、推断和原分析。页面不接入实时源，也不包含会员内容。",
+  "updatedAt": "2026-11-22T18:00:00+08:00",
+  "latestLimit": 4,
+  "paginationAvailable": false,
+  "demo": true,
+  "limitNote": "最新列表只展示 4 条，这是演示用的小上限建议，不是对真实信源的分页接入。"
+}

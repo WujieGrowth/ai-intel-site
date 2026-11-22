@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { formatSourceDate } from "../../contract/dates";
+import { formatCertainty, formatCoverage, formatPriority } from "../../contract/format";
+import { getPublishedItems, getItemById } from "../../data/public";
+import "../../styles/pages.css";
+
+export function getStaticPaths() {
+  return getPublishedItems().map((item) => ({ params: { id: item.id } }));
+}
+
+const item = getItemById(Astro.params.id ?? "");
+if (!item) {
+  throw new Error(`missing published item: ${Astro.params.id ?? ""}`);
+}
+---
+
+<BaseLayout title={item.title} description={item.analysis} current="detail">
+  <article class="detail">
+    <p class="demo-pill">{item.demo ? "演示" : "公开来源"}</p>
+    <p class="meta">来源：{item.sourceName}</p>
+    <h1>{item.title}</h1>
+    <p class="priority" data-level={item.priority}>{formatPriority(item.priority)}</p>
+    <p class="meta">主题：{item.topics.join("、")}</p>
+    <div class="detail-grid">
+      <section class="facts" aria-labelledby="facts-title">
+        <h2 id="facts-title">已核事实</h2>
+        <ul>
+          {item.facts.map((fact) => <li>{fact}</li>)}
+        </ul>
+      </section>
+      <section class="inferences" aria-labelledby="inference-title">
+        <h2 id="inference-title">推断</h2>
+        {item.inferences.length === 0 ? <p>这一条没有单列推断。</p> : (
+          <ul>
+            {item.inferences.map((line) => <li>{line}</li>)}
+          </ul>
+        )}
+      </section>
+      <section class="analysis" aria-labelledby="analysis-title">
+        <h2 id="analysis-title">原分析</h2>
+        <p>{item.analysis}</p>
+      </section>
+      <section aria-labelledby="source-title">
+        <h2 id="source-title">来源</h2>
+        <p>
+          <a href={item.sourceUrl} rel="noopener noreferrer">{item.sourceName}</a>
+        </p>
+        <p>来源时间：{formatSourceDate(item.sourcePublishedAt)}</p>
+        <p>确定性：{formatCertainty(item.sourcePublishedAt.certainty)}</p>
+        {item.sourcePublishedAt.raw && item.sourcePublishedAt.certainty !== "complete" && (
+          <p>来源原文：{item.sourcePublishedAt.raw}</p>
+        )}
+      </section>
+      <section aria-labelledby="coverage-title">
+        <h2 id="coverage-title">覆盖</h2>
+        <p>{formatCoverage(item.coverage)}</p>
+      </section>
+    </div>
+  </article>
+</BaseLayout>

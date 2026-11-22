@@ -1,5 +1,90 @@
 [
   {
+    "id": "origin-7e05f18a131f6778",
+    "title": "Anthropic 发布联合创始人访谈视频",
+    "topics": [
+      "公开帖"
+    ],
+    "priority": "P2",
+    "facts": [
+      "Anthropic 官方 X 账号发布了一条公开帖。",
+      "本条只记录这条公开帖，不描述视频里的具体内容。"
+    ],
+    "inferences": [
+      "仅凭公开原文，不能判断买方、付款或交付。",
+      "没有观看视频，也不根据帖子推断视频里的具体内容。"
+    ],
+    "analysis": "这条记录由生财AI情报私人桥发现，公开文字只来自已核实的原文，不是会员摘要，也不是官方授权转载。定时采集和 GitHub Actions 都没有调用生财接口。没有买方或付款证据，优先级保持 P2。",
+    "sourceName": "Anthropic",
+    "sourceUrl": "https://x.com/AnthropicAI/status/2123822989154369958",
+    "sourcePublishedAt": {
+      "raw": "2026-11-20T16:57:13Z",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "16:57",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-22T11:21:43Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过公开原文，没有把会员摘要当作事实。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "公开原文已核实。由生财私人桥发现，不是官方转载，Actions 未调用该接口。"
+    }
+  },
+  {
+    "id": "origin-be0aed2f51056a6d",
+    "title": "Google 官方博客介绍 Gemini 4 Neon",
+    "topics": [
+      "官方博客"
+    ],
+    "priority": "P2",
+    "facts": [
+      "Google 官方博客介绍 Gemini 4 Neon，面向软件工程、知识工作与科学流程。",
+      "具体能力与价格以原文为准，本条不摘录数字。"
+    ],
+    "inferences": [
+      "仅凭公开原文，不能判断买方、付款或交付。"
+    ],
+    "analysis": "这条记录由生财AI情报私人桥发现，公开文字只来自已核实的原文，不是会员摘要，也不是官方授权转载。定时采集和 GitHub Actions 都没有调用生财接口。没有买方或付款证据，优先级保持 P2。",
+    "sourceName": "Google",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+    "sourcePublishedAt": {
+      "raw": "2026-11-18",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": null,
+      "timezone": null,
+      "certainty": "date-only"
+    },
+    "updatedAt": "2026-11-22T11:21:43Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过公开原文，没有把会员摘要当作事实。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "公开原文已核实。由生财私人桥发现，不是官方转载，Actions 未调用该接口。"
+    }
+  },
+  {
     "id": "arxiv-cs-2611-26601v1",
     "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
     "topics": [
@@ -866,91 +951,6 @@
     "publication": {
       "confirmed": true,
       "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "origin-7e05f18a131f6778",
-    "title": "Anthropic 发布联合创始人访谈视频",
-    "topics": [
-      "公开帖"
-    ],
-    "priority": "P2",
-    "facts": [
-      "Anthropic 官方 X 账号发布了一条公开帖。",
-      "本条只记录这条公开帖，不描述视频里的具体内容。"
-    ],
-    "inferences": [
-      "仅凭公开原文，不能判断买方、付款或交付。",
-      "没有观看视频，也不根据帖子推断视频里的具体内容。"
-    ],
-    "analysis": "这条记录由生财AI情报私人桥发现，公开文字只来自已核实的原文，不是会员摘要，也不是官方授权转载。定时采集和 GitHub Actions 都没有调用生财接口。没有买方或付款证据，优先级保持 P2。",
-    "sourceName": "Anthropic",
-    "sourceUrl": "https://x.com/AnthropicAI/status/2123822989154369958",
-    "sourcePublishedAt": {
-      "raw": "2026-11-20T16:57:13Z",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "16:57",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-22T11:20:00Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过公开原文，没有把会员摘要当作事实。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "公开原文已核实。由生财私人桥发现，不是官方转载，Actions 未调用该接口。"
-    }
-  },
-  {
-    "id": "origin-be0aed2f51056a6d",
-    "title": "Google 官方博客介绍 Gemini 4 Neon",
-    "topics": [
-      "官方博客"
-    ],
-    "priority": "P2",
-    "facts": [
-      "Google 官方博客介绍 Gemini 4 Neon，面向软件工程、知识工作与科学流程。",
-      "具体能力与价格以原文为准，本条不摘录数字。"
-    ],
-    "inferences": [
-      "仅凭公开原文，不能判断买方、付款或交付。"
-    ],
-    "analysis": "这条记录由生财AI情报私人桥发现，公开文字只来自已核实的原文，不是会员摘要，也不是官方授权转载。定时采集和 GitHub Actions 都没有调用生财接口。没有买方或付款证据，优先级保持 P2。",
-    "sourceName": "Google",
-    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
-    "sourcePublishedAt": {
-      "raw": "2026-11-18",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": null,
-      "timezone": null,
-      "certainty": "date-only"
-    },
-    "updatedAt": "2026-11-22T11:20:00Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过公开原文，没有把会员摘要当作事实。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "公开原文已核实。由生财私人桥发现，不是官方转载，Actions 未调用该接口。"
     }
   }
 ]

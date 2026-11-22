@@ -73,7 +73,7 @@ PUBLIC_BASE_PATH=/ai-intel-site/ PUBLIC_SITE_URL=https://wujiegrowth.github.io n
 }
 ```
 
-`evidenceUrl` 目前只接受 `x.com` 的状态帖，或 `blog.google` 上至少两级路径。`verified` 必须是 true，`endorsement` 必须是 false。出现 `candidateId`、`summary`、`detail`、`opportunity`、`signals`、`tag`、`publishedAt` 或其它未列出的字段时，整份文件被拒绝，不会入库。连接器的 `MM-DD HH:mm` 不能当作公开日期。完整时间或仅日期必须来自公开原文本身。
+`evidenceUrl` 目前只接受 `x.com` 的状态帖，或 `blog.google` 上至少两级路径。`verified` 必须是 true，`endorsement` 必须是 false。出现 `candidateId`、`summary`、`detail`、`opportunity`、`signals`、`tag`、`publishedAt` 或其它未列出的字段时，整份文件被拒绝，不会入库。连接器的 `MM-DD HH:mm` 不能当作公开日期。完整时间或仅日期必须来自公开原文本身。字段和时间的完整约定在 [docs/verified-public-handoff.md](docs/verified-public-handoff.md)。
 
 ```bash
 npm run cli -- import-raw --input ./private/feed.json --private-out ./private/dedup.json --write

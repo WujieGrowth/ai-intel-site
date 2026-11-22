@@ -9,6 +9,8 @@ export interface RawSignal {
   authors: string[];
   categories: string[];
   publishedAt: SourcePublishedAt;
+  sourceLabel?: string;
+  scopeNote?: string;
 }
 
 const CATEGORY_TOPIC: Record<string, string> = {
@@ -26,6 +28,7 @@ export function signalToItem(source: SourceRecord, signal: RawSignal, fetchedAt:
   if (!/^[a-z][a-z0-9-]{2,78}$/.test(id)) return null;
   const topics = topicsFor(source, signal.categories);
   const authors = signal.authors.map((name) => sanitizeText(name, 80)).filter(Boolean).slice(0, 8);
+  const label = sanitizeText(signal.sourceLabel ?? source.name, 80);
   const facts = [
     `标题：${title}`,
     authors.length > 0 ? `作者：${authors.join("、")}` : "作者：来源未提供",
@@ -38,8 +41,8 @@ export function signalToItem(source: SourceRecord, signal: RawSignal, fetchedAt:
     priority: "P2",
     facts,
     inferences: ["仅凭这条元数据，不能判断买方、付款、交付或可复现性。"],
-    analysis: `规则说明：这是${source.name}的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。${source.attribution}`,
-    sourceName: source.name,
+    analysis: `规则说明：这是${label}的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。${signal.scopeNote ?? source.attribution}`,
+    sourceName: label,
     sourceUrl: url,
     sourcePublishedAt: signal.publishedAt,
     updatedAt: fetchedAt,
@@ -71,6 +74,10 @@ function topicsFor(source: SourceRecord, categories: string[]): string[] {
   const topics = new Set<string>();
   if (source.id === "nist-it") topics.add("标准");
   if (source.id === "arxiv-cs") topics.add("预印本");
+  if (source.id === "openai-news" || source.id === "mistral-news") topics.add("新闻");
+  if (source.id === "deepmind-blog") topics.add("研究");
+  if (source.id === "huggingface-blog") topics.add("模型");
+  if (source.id === "claude-platform-notes") topics.add("发布说明");
   for (const category of categories) {
     const mapped = CATEGORY_TOPIC[category];
     if (mapped) topics.add(mapped);
@@ -98,9 +105,13 @@ export function dateFromIso(raw: string): SourcePublishedAt {
 }
 
 export function dateFromRfc822(raw: string): SourcePublishedAt {
-  const parsed = Date.parse(raw);
-  if (Number.isNaN(parsed)) return { ...emptyDate(), raw: sanitizeText(raw, 80) || null };
+  const trimmed = raw.trim();
+  const hasTime = /\d{2}:\d{2}/.test(trimmed);
+  const hasZone = /(?:\bGMT\b|\bUTC\b|[+-]\d{4})\b/.test(trimmed);
+  if (!hasTime || !hasZone) return { ...emptyDate(), raw: sanitizeText(trimmed, 80) || null };
+  const parsed = Date.parse(trimmed);
+  if (Number.isNaN(parsed)) return { ...emptyDate(), raw: sanitizeText(trimmed, 80) || null };
   const iso = new Date(parsed).toISOString().replace(/\.\d{3}Z$/, "Z");
   const dated = dateFromIso(iso);
-  return { ...dated, raw: raw.trim() };
+  return { ...dated, raw: trimmed };
 }

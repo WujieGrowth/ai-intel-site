@@ -21,10 +21,10 @@ export function parseArxiv(xml: string): RawSignal[] {
 
 export function parseRss(xml: string): RawSignal[] {
   return blocks(xml, "item").map((item) => {
-    const title = sanitizeText(text(item, "title"), 180);
-    const link = text(item, "link");
-    const pubDate = text(item, "pubDate");
-    const guid = text(item, "guid") || link;
+    const title = cleanFeedText(textRaw(item, "title"), 180);
+    const link = linkOf(item);
+    const pubDate = textRaw(item, "pubDate");
+    const guid = cleanFeedText(textRaw(item, "guid"), 300) || link;
     return {
       externalId: guid,
       title,
@@ -36,12 +36,29 @@ export function parseRss(xml: string): RawSignal[] {
   }).filter((item) => item.title && item.url.startsWith("https://"));
 }
 
+/** Feed text may be wrapped in CDATA. Markup is removed; the wrapped words stay. */
+export function cleanFeedText(value: string, max = 300): string {
+  const cdata = value.match(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/);
+  return sanitizeText(cdata ? cdata[1] : value, max);
+}
+
 function blocks(xml: string, tag: string): string[] {
   const pattern = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)</${tag}>`, "gi");
   return [...xml.matchAll(pattern)].map((match) => match[1] ?? "");
 }
 
 function text(xml: string, tag: string): string {
+  return cleanFeedText(textRaw(xml, tag));
+}
+
+function textRaw(xml: string, tag: string): string {
   const match = xml.match(new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)</${tag}>`, "i"));
-  return sanitizeText(match?.[1] ?? "", 300);
+  return match?.[1] ?? "";
+}
+
+function linkOf(item: string): string {
+  const plain = cleanFeedText(textRaw(item, "link"), 300);
+  if (plain.startsWith("https://")) return plain;
+  const href = item.match(/<link\b[^>]*href="(https:[^"]+)"/i);
+  return href?.[1] ?? plain;
 }

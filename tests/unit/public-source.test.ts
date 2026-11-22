@@ -13,7 +13,15 @@ const source = SOURCE_REGISTRY.find((item) => item.id === "arxiv-cs");
 
 describe("public source gate", () => {
   it("keeps membership and uncertain feeds disabled", () => {
-    expect(enabledSources().map((item) => item.id)).toEqual(["arxiv-cs", "nist-it"]);
+    expect(enabledSources().map((item) => item.id)).toEqual([
+      "arxiv-cs",
+      "nist-it",
+      "openai-news",
+      "deepmind-blog",
+      "huggingface-blog",
+      "claude-platform-notes",
+      "mistral-news",
+    ]);
     expect(enabledSources().every((item) => item.channel === "native-public" && item.scheduled === true)).toBe(true);
     const bridge = SOURCE_REGISTRY.find((item) => item.id === "scys-private");
     expect(bridge?.enabled).toBe(false);
@@ -21,7 +29,9 @@ describe("public source gate", () => {
     expect(bridge?.scheduled).toBe(false);
     expect(bridge?.feedUrl).toBeNull();
     expect(bridge?.kind).toBe("private-file");
-    expect(SOURCE_REGISTRY.find((item) => item.id === "openai-blog")?.disabledReason).toContain("许可");
+    expect(SOURCE_REGISTRY.find((item) => item.id === "openai-news")?.enabled).toBe(true);
+    expect(SOURCE_REGISTRY.find((item) => item.id === "openai-news")?.maxItems).toBe(10);
+    expect(SOURCE_REGISTRY.find((item) => item.id === "github-pytorch-atom")?.disabledReason).toContain("许可");
   });
 
   it("blocks private hosts, insecure schemes, and off-list redirects", () => {

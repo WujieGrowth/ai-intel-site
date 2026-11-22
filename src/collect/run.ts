@@ -3,20 +3,28 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import { PUBLIC_FEED_CAP } from "../contract/limits";
 import { parsePublicItem, type PublicItem } from "../contract/index";
 import { enabledSources } from "../data/sources/registry";
+import { canonicalEvidenceUrl } from "./canonical";
 import { fetchAllowlisted } from "./fetch";
 import { signalToItem } from "./map";
 import { parseArxiv, parseRss } from "./parse";
+import { selectSignals } from "./select";
 
 const itemsPath = new URL("../data/published/items.json", import.meta.url);
 const sitePath = new URL("../data/published/site.json", import.meta.url);
 const healthPath = new URL("../data/published/health.json", import.meta.url);
 const historyPath = new URL("../data/published/history.json", import.meta.url);
+const cachePath = new URL("../data/published/feed-cache.json", import.meta.url);
 
 interface HealthRow {
   id: string;
   ok: boolean;
   fetched: number;
   error: string | null;
+  notModified: boolean;
+}
+
+interface FeedCache {
+  sources: Record<string, { etag: string | null; lastModified: string | null }>;
 }
 
 interface IdLedger {
@@ -46,25 +54,40 @@ async function main(): Promise<void> {
   const fetchedAt = new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
   const health: HealthRow[] = [];
   const fresh: PublicItem[] = [];
+  const cache = readCache();
   for (const source of enabledSources()) {
+    const prior = cache.sources[source.id];
     try {
-      const xml = await fetchAllowlisted(source.feedUrl, source.allowedHosts);
-      const signals = source.kind === "arxiv-api" ? parseArxiv(xml) : parseRss(xml);
-      const mapped = signals
-        .slice(0, 12)
-        .map((signal) => signalToItem(source, signal, fetchedAt))
-        .filter((item): item is PublicItem => item !== null);
-      fresh.push(...mapped);
-      health.push({ id: source.id, ok: true, fetched: mapped.length, error: null });
+      const fetched = await fetchAllowlisted(source.feedUrl, source.allowedHosts, {
+        etag: prior?.etag,
+        lastModified: prior?.lastModified,
+      });
+      cache.sources[source.id] = { etag: fetched.etag, lastModified: fetched.lastModified };
+      if (fetched.status === 304) {
+        health.push({
+          id: source.id,
+          ok: true,
+          fetched: previous.filter((item) => item.id.startsWith(`${source.id}-`)).length,
+          error: null,
+          notModified: true,
+        });
+      } else {
+        const parsed = source.kind === "arxiv-api" ? parseArxiv(fetched.body) : parseRss(fetched.body);
+        const mapped = selectSignals(source, parsed)
+          .map((signal) => signalToItem(source, signal, fetchedAt))
+          .filter((item): item is PublicItem => item !== null);
+        fresh.push(...mapped);
+        health.push({ id: source.id, ok: true, fetched: mapped.length, error: null, notModified: false });
+      }
       await new Promise((resolve) => setTimeout(resolve, source.rateLimitMs));
     } catch (error) {
       const message = error instanceof Error ? error.message : "fetch-failed";
-      health.push({ id: source.id, ok: false, fetched: 0, error: message });
+      health.push({ id: source.id, ok: false, fetched: 0, error: message, notModified: false });
     }
   }
   const anyOk = health.some((row) => row.ok);
-  const merged = merge(previous, anyOk ? fresh : []);
-  const published = merged.slice(0, PUBLIC_FEED_CAP);
+  const merged = merge(previous, anyOk ? dedupAgainst(previous, fresh) : []);
+  const published = capPublished(merged, PUBLIC_FEED_CAP);
   const historyIds = retainHistoryIds(
     readHistoryIds(),
     merged.map((item) => item.id),
@@ -77,7 +100,49 @@ async function main(): Promise<void> {
   if (anyOk) site.updatedAt = fetchedAt;
   writeFileSync(sitePath, `${JSON.stringify(site, null, 2)}\n`);
   writeFileSync(healthPath, `${JSON.stringify({ fetchedAt, sources: health, keptPrevious: !anyOk }, null, 2)}\n`);
+  writeFileSync(cachePath, `${JSON.stringify(cache, null, 2)}\n`);
   console.log(JSON.stringify({ fetchedAt, anyOk, count: published.length, health }));
+}
+
+/** Drop a second copy of a canonical URL. A different host is a different record. */
+export function dedupAgainst(previous: readonly PublicItem[], fresh: readonly PublicItem[]): PublicItem[] {
+  const owned = new Map<string, string>();
+  for (const item of previous) {
+    const key = canonicalEvidenceUrl(item.sourceUrl);
+    if (key) owned.set(key, item.id);
+  }
+  const seen = new Set<string>();
+  const out: PublicItem[] = [];
+  for (const item of fresh) {
+    const key = canonicalEvidenceUrl(item.sourceUrl) ?? item.sourceUrl;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const owner = owned.get(key);
+    if (owner && owner !== item.id) continue;
+    out.push(item);
+  }
+  return out;
+}
+
+/** Reviewed public originals stay even when newer collector rows fill the window. */
+export function capPublished(items: readonly PublicItem[], cap: number): PublicItem[] {
+  const sorted = [...items].sort((a, b) => Date.parse(b.updatedAt) - Date.parse(a.updatedAt) || a.id.localeCompare(b.id));
+  const pinned = sorted.filter((item) => item.id.startsWith("origin-"));
+  const rest = sorted.filter((item) => !item.id.startsWith("origin-"));
+  return [...pinned, ...rest.slice(0, Math.max(cap - pinned.length, 0))].sort(
+    (a, b) => Date.parse(b.updatedAt) - Date.parse(a.updatedAt) || a.id.localeCompare(b.id),
+  );
+}
+
+function readCache(): FeedCache {
+  try {
+    const parsed = JSON.parse(readFileSync(cachePath, "utf8")) as FeedCache;
+    if (!parsed || typeof parsed !== "object" || !parsed.sources) return { sources: {} };
+    return parsed;
+  } catch (error) {
+    if (isMissing(error)) return { sources: {} };
+    return { sources: {} };
+  }
 }
 
 function readItems(): PublicItem[] {

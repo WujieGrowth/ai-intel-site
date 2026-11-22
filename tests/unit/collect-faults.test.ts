@@ -46,7 +46,7 @@ function collected(sourceId: "arxiv-cs" | "nist-it", externalId: string, fetched
 
 describe("collector faults", () => {
   it("keeps membership feeds disabled", () => {
-    for (const id of ["scys-private", "openai-blog", "github-pytorch-atom"]) {
+    for (const id of ["scys-private", "github-pytorch-atom"]) {
       expect(SOURCE_REGISTRY.find((source) => source.id === id)?.enabled).toBe(false);
     }
   });

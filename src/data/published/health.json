@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-23T00:37:16Z",
+  "fetchedAt": "2026-11-24T00:41:10Z",
   "sources": [
     {
       "id": "arxiv-cs",
-      "ok": false,
-      "fetched": 0,
-      "error": "This operation was aborted",
+      "ok": true,
+      "fetched": 8,
+      "error": null,
       "notModified": false,
       "skippedFuture": 0
     },

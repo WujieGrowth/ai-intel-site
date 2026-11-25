@@ -5,15 +5,15 @@
       "lastModified": null
     },
     "nist-it": {
-      "etag": "\"1795487463-gzip\"",
-      "lastModified": "Tue, 24 Nov 2026 02:31:03 GMT"
+      "etag": "\"1795530673-gzip\"",
+      "lastModified": "Tue, 24 Nov 2026 14:31:13 GMT"
     },
     "deepmind-blog": {
-      "etag": "\"skVfNg\"",
+      "etag": "\"oDHYTA\"",
       "lastModified": null
     },
     "huggingface-blog": {
-      "etag": "W/\"42298-tXD2I7mC5oUSAGFcKFwWRx+ANhs\"",
+      "etag": "W/\"42297-gdOLeX4aOiXgJqDSfT5VUj3SY3k\"",
       "lastModified": null
     },
     "claude-platform-notes": {
@@ -21,7 +21,7 @@
       "lastModified": null
     },
     "mistral-news": {
-      "etag": "W/\"188b9a6783e5f60e527b88fdc61b7089-ssl\"",
+      "etag": "W/\"ff2c19fb361d43c1bad6025b44b132d2-ssl\"",
       "lastModified": null
     },
     "openai-news": {

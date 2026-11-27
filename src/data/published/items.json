@@ -1,5 +1,2901 @@
 [
   {
+    "id": "arxiv-cs-2611-34920v1",
+    "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+    "topics": [
+      "预印本",
+      "语言",
+      "人工智能"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "作者：Qihao Lin、Guanxu Chen、Shuhang Zheng、Xiaoya Lu、Jingyi Yang、Terumi Chiba、Wenyi Yu、Chao Zhang",
+      "来源页：https://arxiv.org/abs/2611.34920v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34920v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:58:42Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:58",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34923v1",
+    "title": "Mixture-of-Loops Transformer",
+    "topics": [
+      "预印本",
+      "机器学习",
+      "语言"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Mixture-of-Loops Transformer",
+      "作者：Lianghui Zhu、Shijie Wang、Xinggang Wang、Jinze Bai、Bo Wang、Xiang Bai",
+      "来源页：https://arxiv.org/abs/2611.34923v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34923v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:58:53Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:58",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34928v1",
+    "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+    "topics": [
+      "预印本",
+      "语言",
+      "人工智能",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "作者：Lukas Aichberger、Adam Golinski、Arno Blaas、Arwen Bradley、Jacob Springer、Mehrdad Farajtabar、Michael Kirchhof、Sinead Williamson",
+      "来源页：https://arxiv.org/abs/2611.34928v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34928v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:11Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34930v1",
+    "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+    "topics": [
+      "预印本",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：A gene informed benchmark for BioScoring of pathology foundation models",
+      "作者：Paul Vilars、Vincent Quoc-Huy Trinh、Maria Vakalopoulou、Dimitris Samaras、Stergios Christodoulidis、Mahdi S. Hosseini",
+      "来源页：https://arxiv.org/abs/2611.34930v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34930v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:13Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34934v1",
+    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+    "topics": [
+      "预印本",
+      "机器学习",
+      "人工智能"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Attack Policy Selection can Mislead Monitor Evaluators",
+      "作者：Charlie Griffin、Oliver Makins、Asa Cooper Stickland、Alessandro Abate、Yarin Gal、Abby D'Cruz、Xander Davies",
+      "来源页：https://arxiv.org/abs/2611.34934v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34934v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:28Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34935v1",
+    "title": "Can image generation help visual reasoning? An empirical study",
+    "topics": [
+      "预印本",
+      "机器学习",
+      "语言"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Can image generation help visual reasoning? An empirical study",
+      "作者：Xueyang Yu、Yifan Jing、Taiming Lu、Linrong Cai、Zhipeng Cai、Yunyang Xiong、Gabriel Sarch、Zhuang Liu",
+      "来源页：https://arxiv.org/abs/2611.34935v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34935v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:31Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34938v1",
+    "title": "Tokenisation is not in APX",
+    "topics": [
+      "预印本",
+      "语言",
+      "机器学习"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Tokenisation is not in APX",
+      "作者：Violeta Kastreva、Philip Whittington、Dennis Komm、Tiago Pimentel",
+      "来源页：https://arxiv.org/abs/2611.34938v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34938v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:38Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "arxiv-cs-2611-34942v1",
+    "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+    "topics": [
+      "预印本",
+      "人工智能"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+      "作者：Yalin E. Sagduyu、Tugba Erpek",
+      "来源页：https://arxiv.org/abs/2611.34942v1"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
+    "sourceName": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2611.34942v1",
+    "sourcePublishedAt": {
+      "raw": "2026-11-25T18:59:57Z",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-158906c988cc4f48",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-project-message-counts"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-project-message-counts",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-1c8fd89ef6c6acab",
+    "title": "Claude Platform release notes — November 20, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 20, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-chat-session-counting"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-chat-session-counting",
+    "sourcePublishedAt": {
+      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-1f2e2ab9518bf59b",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-web-search-counts"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-web-search-counts",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-680065894fb3b105",
+    "title": "Claude Platform release notes — November 16, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 16, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models",
+    "sourcePublishedAt": {
+      "raw": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 16,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-79d083b08ba4f892",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#enterprise-frontier-safeguards"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#enterprise-frontier-safeguards",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-851ad1005a06c216",
+    "title": "Claude Platform release notes — November 16, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 16, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#encryption-key-webhook-events"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#encryption-key-webhook-events",
+    "sourcePublishedAt": {
+      "raw": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 16,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-9129b1bc7902641c",
+    "title": "Claude Platform release notes — November 17, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 17, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#linked-billing"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#linked-billing",
+    "sourcePublishedAt": {
+      "raw": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 17,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-bba8bcaba0db0761",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#claude-opus-4-5-deprecation"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#claude-opus-4-5-deprecation",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-e04a244a67f6c414",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-connector-sign-in-counts"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-connector-sign-in-counts",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "claude-platform-notes-ec5d17dea0efd7a7",
+    "title": "Claude Platform release notes — November 23, 2026",
+    "topics": [
+      "发布说明"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Claude Platform release notes — November 23, 2026",
+      "作者：来源未提供",
+      "来源页：https://platform.claude.com/docs/en/release-notes/overview#storage-webhook-events"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
+    "sourceName": "Claude 平台",
+    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#storage-webhook-events",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-0e9fb0eb84f13acf",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/introducing-alphaproof-code"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "sourcePublishedAt": {
+      "raw": "Tue, 10 Nov 2026 12:02:28 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 10,
+      "time": "12:02",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-1972a6107d7cc016",
+    "title": "Opening the datasets behind our AI weather models",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Opening the datasets behind our AI weather models",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+    "sourcePublishedAt": {
+      "raw": "Tue, 10 Nov 2026 11:13:04 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 10,
+      "time": "11:13",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-55cb0588b3e8436e",
+    "title": "Gemini 4 Carbon is now available",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Gemini 4 Carbon is now available",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/gemini-4-carbon-is-now-available"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "sourcePublishedAt": {
+      "raw": "Tue, 10 Nov 2026 16:03:47 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 10,
+      "time": "16:03",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-5b69826eead48a96",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing Gemini 4 Hydrogen",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/introducing-gemini-4-hydrogen"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+    "sourcePublishedAt": {
+      "raw": "Thu, 12 Nov 2026 18:00:50 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 12,
+      "time": "18:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-616293296550946f",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+    "sourcePublishedAt": {
+      "raw": "Tue, 24 Nov 2026 13:07:53 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 24,
+      "time": "13:07",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-6b6709b612e5913e",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "sourcePublishedAt": {
+      "raw": "Mon, 09 Nov 2026 19:51:47 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 9,
+      "time": "19:51",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-895b540db6a8889e",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Finding faster quantum algorithms with agents and formal verification",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 16:59:40 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "16:59",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-ba0fcf4e325b4115",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "sourcePublishedAt": {
+      "raw": "Wed, 11 Nov 2026 15:00:15 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 11,
+      "time": "15:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-ca9ca0837de1673f",
+    "title": "Genie 4 is now available",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Genie 4 is now available",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/genie-4-is-now-available"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 18:13:42 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "18:13",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "deepmind-blog-fd9bebbff7e69286",
+    "title": "Introducing Gemini 4 Neon",
+    "topics": [
+      "研究"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing Gemini 4 Neon",
+      "作者：来源未提供",
+      "来源页：https://deepmind.google/blog/introducing-gemini-4-neon"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
+    "sourceName": "Google DeepMind",
+    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 21:35:43 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "21:35",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-0077e07924e43bf7",
+    "title": "An Indic Voice Agent with CUGA",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：An Indic Voice Agent with CUGA",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 ibm-research，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
+    "sourceName": "Hugging Face 社区",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "sourcePublishedAt": {
+      "raw": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "10:22",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-00d52199bef25f9e",
+    "title": "How to build and maintain an agentic evaluation",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：How to build and maintain an agentic evaluation",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/agentic-evals"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Hugging Face",
+    "sourceUrl": "https://huggingface.co/blog/agentic-evals",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-3d2697b636d74b83",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 nvidia，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
+    "sourceName": "Hugging Face 社区",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "sourcePublishedAt": {
+      "raw": "Thu, 26 Nov 2026 05:05:36 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 26,
+      "time": "05:05",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-701a571706ec6c00",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/harness-adapters-at-scale"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Hugging Face",
+    "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "sourcePublishedAt": {
+      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-819f2bb8e324e5e7",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/training-swarms"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Hugging Face",
+    "sourceUrl": "https://huggingface.co/blog/training-swarms",
+    "sourcePublishedAt": {
+      "raw": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 26,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-824c03b970f1dc58",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/inkling2mini"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Hugging Face",
+    "sourceUrl": "https://huggingface.co/blog/inkling2mini",
+    "sourcePublishedAt": {
+      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-88bd06d7e0e9b82f",
+    "title": "Where scientists draw the line on AI agents",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Where scientists draw the line on AI agents",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 allenai，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
+    "sourceName": "Hugging Face 社区",
+    "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "sourcePublishedAt": {
+      "raw": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "18:52",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-a734da9d3a1d8760",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 ggml-org，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
+    "sourceName": "Hugging Face 社区",
+    "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "sourcePublishedAt": {
+      "raw": "Thu, 26 Nov 2026 11:37:17 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 26,
+      "time": "11:37",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-df3be113c8aed13f",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Hugging Face",
+    "sourceUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "sourcePublishedAt": {
+      "raw": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 25,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "huggingface-blog-f0b81ce3c1461288",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "topics": [
+      "模型"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "作者：来源未提供",
+      "来源页：https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 RadixArk，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
+    "sourceName": "Hugging Face 社区",
+    "sourceUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 19:54:56 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "19:54",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-2947b34346514aae",
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/mistral-x-cloudera"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/mistral-x-cloudera",
+    "sourcePublishedAt": {
+      "raw": "Thu, 10 Sep 2026 10:42:55 GMT",
+      "year": 2026,
+      "month": 9,
+      "day": 10,
+      "time": "10:42",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-370d8453b070a7bf",
+    "title": "Introducing Timestral",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing Timestral",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/timestral"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/timestral",
+    "sourcePublishedAt": {
+      "raw": "Thu, 15 Oct 2026 12:00:00 GMT",
+      "year": 2026,
+      "month": 10,
+      "day": 15,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-4c6292fc5ecba5f2",
+    "title": "Voxtral 3",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Voxtral 3",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/voxtral-3"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/voxtral-3",
+    "sourcePublishedAt": {
+      "raw": "Tue, 20 Oct 2026 12:00:22 GMT",
+      "year": 2026,
+      "month": 10,
+      "day": 20,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-56bfec926244076b",
+    "title": "Modernizing complex legacy code with AI agents.",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Modernizing complex legacy code with AI agents.",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/legacy-code-modernization"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/legacy-code-modernization",
+    "sourcePublishedAt": {
+      "raw": "Wed, 09 Sep 2026 12:00:46 GMT",
+      "year": 2026,
+      "month": 9,
+      "day": 9,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-5a25565ab71a8d06",
+    "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Le Chonk: Built for Coders, Trusted by Defenders.",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/mistral-large-4-oss"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss",
+    "sourcePublishedAt": {
+      "raw": "Thu, 29 Oct 2026 12:00:07 GMT",
+      "year": 2026,
+      "month": 10,
+      "day": 29,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-5bd02a39074589ea",
+    "title": "Le Chonk brings the brains. Studio puts it to work.",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Le Chonk brings the brains. Studio puts it to work.",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/build-with-studio"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/build-with-studio",
+    "sourcePublishedAt": {
+      "raw": "Thu, 05 Nov 2026 12:00:14 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 5,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-6f131bbed5e7925d",
+    "title": "Introducing Mistral Large 4",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Introducing Mistral Large 4",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/mistral-large-4"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/mistral-large-4",
+    "sourcePublishedAt": {
+      "raw": "Tue, 06 Oct 2026 12:00:27 GMT",
+      "year": 2026,
+      "month": 10,
+      "day": 6,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-70a5d3bd151a6231",
+    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/mistral-x-mozilla"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/mistral-x-mozilla",
+    "sourcePublishedAt": {
+      "raw": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "year": 2026,
+      "month": 9,
+      "day": 16,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-856c26ca4c2d04bc",
+    "title": "Mistral Advances AI for Engineering with NVIDIA",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Mistral Advances AI for Engineering with NVIDIA",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+    "sourcePublishedAt": {
+      "raw": "Wed, 21 Oct 2026 12:00:20 GMT",
+      "year": 2026,
+      "month": 10,
+      "day": 21,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "mistral-news-ee4dc087c2001832",
+    "title": "Hallo, Deutschland!",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Hallo, Deutschland!",
+      "作者：来源未提供",
+      "来源页：https://mistral.ai/news/hallo-deutschland"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "Mistral",
+    "sourceUrl": "https://mistral.ai/news/hallo-deutschland",
+    "sourcePublishedAt": {
+      "raw": "Mon, 28 Sep 2026 15:57:59 GMT",
+      "year": 2026,
+      "month": 9,
+      "day": 28,
+      "time": "15:57",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1921871",
+    "title": "Comments on Software and Agentic AI Identity Concept Paper",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Comments on Software and Agentic AI Identity Concept Paper",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper",
+    "sourcePublishedAt": {
+      "raw": "Tue, 29 Sep 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 9,
+      "day": 29,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1922036",
+    "title": "Draft 5G White Paper Now Available: False Base Station",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Draft 5G White Paper Now Available: False Base Station",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station",
+    "sourcePublishedAt": {
+      "raw": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 9,
+      "day": 30,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1922431",
+    "title": "NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security",
+    "sourcePublishedAt": {
+      "raw": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 10,
+      "day": 8,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923241",
+    "title": "WPEC2026",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：WPEC2026",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/events/2026/10/wpec2026"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/events/2026/10/wpec2026",
+    "sourcePublishedAt": {
+      "raw": "Mon, 26 Oct 2026 00:00:00 -0400",
+      "year": 2026,
+      "month": 10,
+      "day": 26,
+      "time": "04:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923481",
+    "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
+    "sourcePublishedAt": {
+      "raw": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 10,
+      "day": 29,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1923916",
+    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924076",
+    "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+    "sourcePublishedAt": {
+      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924126",
+    "title": "NCCoE Update: Change to CRADA Consortium Announcements",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：NCCoE Update: Change to CRADA Consortium Announcements",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements",
+    "sourcePublishedAt": {
+      "raw": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 12,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "nist-it-https-www-nist-gov-node-1924131",
+    "title": "Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
+    "topics": [
+      "标准"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
+      "作者：来源未提供",
+      "来源页：https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl",
+    "sourcePublishedAt": {
+      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "12:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-184d931227f2504d",
+    "title": "The Silent Consensus",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：The Silent Consensus",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/the-silent-consensus"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/the-silent-consensus",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "10:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-1a10f1676d46fc01",
+    "title": "Perplexity and Intelligence",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Perplexity and Intelligence",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/perplexity-and-intelligence"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+    "sourcePublishedAt": {
+      "raw": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 22,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-58da586369f33999",
+    "title": "Research acceleration: The jagged frontier",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Research acceleration: The jagged frontier",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/research-acceleration-jagged-frontier"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "08:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-67952d9a918d2536",
+    "title": "Inside the Codex sandbox",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Inside the Codex sandbox",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/inside-the-codex-sandbox"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
+    "sourcePublishedAt": {
+      "raw": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 18,
+      "time": "08:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-7758c04a629331bf",
+    "title": "Searching for distant planets with Astra",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Searching for distant planets with Astra",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/searching-for-distant-planets-with-astra"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "sourcePublishedAt": {
+      "raw": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 24,
+      "time": "11:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-7ad44f990f0c53ef",
+    "title": "Combatting adversarial distillation",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Combatting adversarial distillation",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/combatting-adversarial-distillation"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
+    "sourcePublishedAt": {
+      "raw": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "10:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-9342dbf934e428aa",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "sourcePublishedAt": {
+      "raw": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 19,
+      "time": "08:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-ac2f786b30f6d457",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "sourcePublishedAt": {
+      "raw": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 24,
+      "time": "13:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-b0689cf87ab570a4",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：OpenAI and Cisco introduce Shirudo",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/introducing-shirudo"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/introducing-shirudo",
+    "sourcePublishedAt": {
+      "raw": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 23,
+      "time": "21:20",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
+    "id": "openai-news-c1a2af93db54bfcf",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "topics": [
+      "新闻"
+    ],
+    "priority": "P2",
+    "facts": [
+      "标题：Can AI help scientists identify promising drug candidates?",
+      "作者：来源未提供",
+      "来源页：https://openai.com/index/introducing-medchembench"
+    ],
+    "inferences": [
+      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
+    ],
+    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
+    "sourceName": "OpenAI",
+    "sourceUrl": "https://openai.com/index/introducing-medchembench",
+    "sourcePublishedAt": {
+      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "time": "00:00",
+      "timezone": "Z",
+      "certainty": "complete"
+    },
+    "updatedAt": "2026-11-27T00:47:57Z",
+    "coverage": {
+      "completeness": "partial",
+      "examinedCount": 1,
+      "completeCount": 1,
+      "warnings": [
+        "只核过这一条来源记录，没有对照其他来源。"
+      ]
+    },
+    "status": "published",
+    "demo": false,
+    "publication": {
+      "confirmed": true,
+      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
+    }
+  },
+  {
     "id": "arxiv-cs-2611-33130v1",
     "title": "Exploratory Midtraining for Robot Policies",
     "topics": [
@@ -354,952 +3250,6 @@
     }
   },
   {
-    "id": "claude-platform-notes-158906c988cc4f48",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-project-message-counts"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-project-message-counts",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-1c8fd89ef6c6acab",
-    "title": "Claude Platform release notes — November 20, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 20, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-chat-session-counting"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-chat-session-counting",
-    "sourcePublishedAt": {
-      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-1f2e2ab9518bf59b",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-web-search-counts"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-web-search-counts",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-680065894fb3b105",
-    "title": "Claude Platform release notes — November 16, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 16, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models",
-    "sourcePublishedAt": {
-      "raw": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 16,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-79d083b08ba4f892",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#enterprise-frontier-safeguards"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#enterprise-frontier-safeguards",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-851ad1005a06c216",
-    "title": "Claude Platform release notes — November 16, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 16, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#encryption-key-webhook-events"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#encryption-key-webhook-events",
-    "sourcePublishedAt": {
-      "raw": "Mon, 16 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 16,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-9129b1bc7902641c",
-    "title": "Claude Platform release notes — November 17, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 17, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#linked-billing"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#linked-billing",
-    "sourcePublishedAt": {
-      "raw": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 17,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-bba8bcaba0db0761",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#claude-opus-4-5-deprecation"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#claude-opus-4-5-deprecation",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-e04a244a67f6c414",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#analytics-api-connector-sign-in-counts"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#analytics-api-connector-sign-in-counts",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "claude-platform-notes-ec5d17dea0efd7a7",
-    "title": "Claude Platform release notes — November 23, 2026",
-    "topics": [
-      "发布说明"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Claude Platform release notes — November 23, 2026",
-      "作者：来源未提供",
-      "来源页：https://platform.claude.com/docs/en/release-notes/overview#storage-webhook-events"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Claude 平台的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是产品与 API 发布说明，不是 Anthropic 的全部新闻。不转载说明正文。",
-    "sourceName": "Claude 平台",
-    "sourceUrl": "https://platform.claude.com/docs/en/release-notes/overview#storage-webhook-events",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-0e9fb0eb84f13acf",
-    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/introducing-alphaproof-code"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code",
-    "sourcePublishedAt": {
-      "raw": "Tue, 10 Nov 2026 12:02:28 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 10,
-      "time": "12:02",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-1972a6107d7cc016",
-    "title": "Opening the datasets behind our AI weather models",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Opening the datasets behind our AI weather models",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
-    "sourcePublishedAt": {
-      "raw": "Tue, 10 Nov 2026 11:13:04 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 10,
-      "time": "11:13",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-55cb0588b3e8436e",
-    "title": "Gemini 4 Carbon is now available",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Gemini 4 Carbon is now available",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/gemini-4-carbon-is-now-available"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-    "sourcePublishedAt": {
-      "raw": "Tue, 10 Nov 2026 16:03:47 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 10,
-      "time": "16:03",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-5b69826eead48a96",
-    "title": "Introducing Gemini 4 Hydrogen",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing Gemini 4 Hydrogen",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/introducing-gemini-4-hydrogen"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-    "sourcePublishedAt": {
-      "raw": "Thu, 12 Nov 2026 18:00:50 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 12,
-      "time": "18:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-616293296550946f",
-    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
-    "sourcePublishedAt": {
-      "raw": "Tue, 24 Nov 2026 13:07:53 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 24,
-      "time": "13:07",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-6b6709b612e5913e",
-    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-    "sourcePublishedAt": {
-      "raw": "Mon, 09 Nov 2026 19:51:47 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 9,
-      "time": "19:51",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-895b540db6a8889e",
-    "title": "Finding faster quantum algorithms with agents and formal verification",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Finding faster quantum algorithms with agents and formal verification",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 16:59:40 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "16:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-ba0fcf4e325b4115",
-    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-    "sourcePublishedAt": {
-      "raw": "Wed, 11 Nov 2026 15:00:15 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 11,
-      "time": "15:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-ca9ca0837de1673f",
-    "title": "Genie 4 is now available",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Genie 4 is now available",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/genie-4-is-now-available"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 18:13:42 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "18:13",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-fd9bebbff7e69286",
-    "title": "Introducing Gemini 4 Neon",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing Gemini 4 Neon",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/introducing-gemini-4-neon"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 21:35:43 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "21:35",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-0077e07924e43bf7",
-    "title": "An Indic Voice Agent with CUGA",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：An Indic Voice Agent with CUGA",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 ibm-research，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
-    "sourceName": "Hugging Face 社区",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-    "sourcePublishedAt": {
-      "raw": "Wed, 25 Nov 2026 10:22:09 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 25,
-      "time": "10:22",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-00d52199bef25f9e",
-    "title": "How to build and maintain an agentic evaluation",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：How to build and maintain an agentic evaluation",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/agentic-evals"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Hugging Face",
-    "sourceUrl": "https://huggingface.co/blog/agentic-evals",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
     "id": "huggingface-blog-6a28e842b3bf4bfd",
     "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "topics": [
@@ -1323,178 +3273,6 @@
       "month": 11,
       "day": 24,
       "time": "16:34",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-701a571706ec6c00",
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/harness-adapters-at-scale"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Hugging Face",
-    "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "sourcePublishedAt": {
-      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-824c03b970f1dc58",
-    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/inkling2mini"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Hugging Face",
-    "sourceUrl": "https://huggingface.co/blog/inkling2mini",
-    "sourcePublishedAt": {
-      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-88bd06d7e0e9b82f",
-    "title": "Where scientists draw the line on AI agents",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Where scientists draw the line on AI agents",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 allenai，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
-    "sourceName": "Hugging Face 社区",
-    "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-    "sourcePublishedAt": {
-      "raw": "Wed, 25 Nov 2026 18:52:55 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 25,
-      "time": "18:52",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-df3be113c8aed13f",
-    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Hugging Face",
-    "sourceUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-    "sourcePublishedAt": {
-      "raw": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 25,
-      "time": "00:00",
       "timezone": "Z",
       "certainty": "complete"
     },
@@ -1585,1777 +3363,6 @@
       "certainty": "complete"
     },
     "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-f0b81ce3c1461288",
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 RadixArk，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
-    "sourceName": "Hugging Face 社区",
-    "sourceUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "19:54",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-2947b34346514aae",
-    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/mistral-x-cloudera"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/mistral-x-cloudera",
-    "sourcePublishedAt": {
-      "raw": "Thu, 10 Sep 2026 10:42:55 GMT",
-      "year": 2026,
-      "month": 9,
-      "day": 10,
-      "time": "10:42",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-370d8453b070a7bf",
-    "title": "Introducing Timestral",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing Timestral",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/timestral"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/timestral",
-    "sourcePublishedAt": {
-      "raw": "Thu, 15 Oct 2026 12:00:00 GMT",
-      "year": 2026,
-      "month": 10,
-      "day": 15,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-4c6292fc5ecba5f2",
-    "title": "Voxtral 3",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Voxtral 3",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/voxtral-3"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/voxtral-3",
-    "sourcePublishedAt": {
-      "raw": "Tue, 20 Oct 2026 12:00:22 GMT",
-      "year": 2026,
-      "month": 10,
-      "day": 20,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-56bfec926244076b",
-    "title": "Modernizing complex legacy code with AI agents.",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Modernizing complex legacy code with AI agents.",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/legacy-code-modernization"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/legacy-code-modernization",
-    "sourcePublishedAt": {
-      "raw": "Wed, 09 Sep 2026 12:00:46 GMT",
-      "year": 2026,
-      "month": 9,
-      "day": 9,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-5a25565ab71a8d06",
-    "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Le Chonk: Built for Coders, Trusted by Defenders.",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/mistral-large-4-oss"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss",
-    "sourcePublishedAt": {
-      "raw": "Thu, 29 Oct 2026 12:00:07 GMT",
-      "year": 2026,
-      "month": 10,
-      "day": 29,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-5bd02a39074589ea",
-    "title": "Le Chonk brings the brains. Studio puts it to work.",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Le Chonk brings the brains. Studio puts it to work.",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/build-with-studio"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/build-with-studio",
-    "sourcePublishedAt": {
-      "raw": "Thu, 05 Nov 2026 12:00:14 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 5,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-6f131bbed5e7925d",
-    "title": "Introducing Mistral Large 4",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Introducing Mistral Large 4",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/mistral-large-4"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/mistral-large-4",
-    "sourcePublishedAt": {
-      "raw": "Tue, 06 Oct 2026 12:00:27 GMT",
-      "year": 2026,
-      "month": 10,
-      "day": 6,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-70a5d3bd151a6231",
-    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/mistral-x-mozilla"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/mistral-x-mozilla",
-    "sourcePublishedAt": {
-      "raw": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "year": 2026,
-      "month": 9,
-      "day": 16,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-856c26ca4c2d04bc",
-    "title": "Mistral Advances AI for Engineering with NVIDIA",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Mistral Advances AI for Engineering with NVIDIA",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
-    "sourcePublishedAt": {
-      "raw": "Wed, 21 Oct 2026 12:00:20 GMT",
-      "year": 2026,
-      "month": 10,
-      "day": 21,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "mistral-news-ee4dc087c2001832",
-    "title": "Hallo, Deutschland!",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Hallo, Deutschland!",
-      "作者：来源未提供",
-      "来源页：https://mistral.ai/news/hallo-deutschland"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Mistral的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Mistral",
-    "sourceUrl": "https://mistral.ai/news/hallo-deutschland",
-    "sourcePublishedAt": {
-      "raw": "Mon, 28 Sep 2026 15:57:59 GMT",
-      "year": 2026,
-      "month": 9,
-      "day": 28,
-      "time": "15:57",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1921871",
-    "title": "Comments on Software and Agentic AI Identity Concept Paper",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Comments on Software and Agentic AI Identity Concept Paper",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/comments-software-and-agentic-ai-identity-concept-paper",
-    "sourcePublishedAt": {
-      "raw": "Tue, 29 Sep 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 9,
-      "day": 29,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1922036",
-    "title": "Draft 5G White Paper Now Available: False Base Station",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Draft 5G White Paper Now Available: False Base Station",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/draft-5g-white-paper-now-available-false-base-station",
-    "sourcePublishedAt": {
-      "raw": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 9,
-      "day": 30,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1922431",
-    "title": "NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NIST Publishes Reports on Open Radio Access Network (O-RAN) Security",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-publishes-reports-open-radio-access-network-o-ran-security",
-    "sourcePublishedAt": {
-      "raw": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 10,
-      "day": 8,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923241",
-    "title": "WPEC2026",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：WPEC2026",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/events/2026/10/wpec2026"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/events/2026/10/wpec2026",
-    "sourcePublishedAt": {
-      "raw": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "year": 2026,
-      "month": 10,
-      "day": 26,
-      "time": "04:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923481",
-    "title": "Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Privacy-Preserving Federated Learning (PPFL) Testbed and Curated Dataset",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/privacy-preserving-federated-learning-ppfl-testbed-and-curated-dataset",
-    "sourcePublishedAt": {
-      "raw": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 10,
-      "day": 29,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1923916",
-    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924076",
-    "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
-    "sourcePublishedAt": {
-      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924126",
-    "title": "NCCoE Update: Change to CRADA Consortium Announcements",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：NCCoE Update: Change to CRADA Consortium Announcements",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nccoe-update-change-crada-consortium-announcements",
-    "sourcePublishedAt": {
-      "raw": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 12,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "nist-it-https-www-nist-gov-node-1924131",
-    "title": "Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
-    "topics": [
-      "标准"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Updated Guidelines: Accelerating the Adoption of Mobile Driver’s Licenses (mDL)",
-      "作者：来源未提供",
-      "来源页：https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是NIST的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。条目标题链到 NIST。由美国联邦政府雇员完成的作品通常属于公有领域。",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl",
-    "sourcePublishedAt": {
-      "raw": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "12:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-184d931227f2504d",
-    "title": "The Silent Consensus",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：The Silent Consensus",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/the-silent-consensus"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/the-silent-consensus",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "10:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-1a10f1676d46fc01",
-    "title": "Perplexity and Intelligence",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Perplexity and Intelligence",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/perplexity-and-intelligence"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
-    "sourcePublishedAt": {
-      "raw": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 22,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-58da586369f33999",
-    "title": "Research acceleration: The jagged frontier",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Research acceleration: The jagged frontier",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/research-acceleration-jagged-frontier"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "08:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-67952d9a918d2536",
-    "title": "Inside the Codex sandbox",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Inside the Codex sandbox",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/inside-the-codex-sandbox"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "08:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-7758c04a629331bf",
-    "title": "Searching for distant planets with Astra",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Searching for distant planets with Astra",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/searching-for-distant-planets-with-astra"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
-    "sourcePublishedAt": {
-      "raw": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 24,
-      "time": "11:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-7ad44f990f0c53ef",
-    "title": "Combatting adversarial distillation",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Combatting adversarial distillation",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/combatting-adversarial-distillation"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
-    "sourcePublishedAt": {
-      "raw": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "10:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-9342dbf934e428aa",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "sourcePublishedAt": {
-      "raw": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 19,
-      "time": "08:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-ac2f786b30f6d457",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-    "sourcePublishedAt": {
-      "raw": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 24,
-      "time": "13:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-b0689cf87ab570a4",
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：OpenAI and Cisco introduce Shirudo",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/introducing-shirudo"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/introducing-shirudo",
-    "sourcePublishedAt": {
-      "raw": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "21:20",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "openai-news-c1a2af93db54bfcf",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "topics": [
-      "新闻"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Can AI help scientists identify promising drug candidates?",
-      "作者：来源未提供",
-      "来源页：https://openai.com/index/introducing-medchembench"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是OpenAI的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载全文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "OpenAI",
-    "sourceUrl": "https://openai.com/index/introducing-medchembench",
-    "sourcePublishedAt": {
-      "raw": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 20,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-26T00:43:55Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31222v1",
-    "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-    "topics": [
-      "预印本",
-      "人工智能"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-      "作者：Mohammed Baharoon、Sung Eun Kim、Mahmoud Hussain Alabbad、Lucas Bijnens、Ali Piracha、Reem Alwasiah、Talal Yahyan、Abdulrahman Alamoudi",
-      "来源页：https://arxiv.org/abs/2611.31222v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31222v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:57:26Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:57",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31223v1",
-    "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Agentic AI for Intent Management and Control in Autonomous Communication Networks",
-      "作者：Burak Demirel、Yu Wang、Pablo Soldati",
-      "来源页：https://arxiv.org/abs/2611.31223v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31223v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:57:32Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:57",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31225v1",
-    "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Self-Supervised Dataset Distillation via Mutual Information Maximization",
-      "作者：Mohammad Hossein Moslemi、Mahdi Beitollahi、Zhimin Mei、Jiale Cai、Bissan Ghaddar、Boyu Wang",
-      "来源页：https://arxiv.org/abs/2611.31225v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31225v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:58:27Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:58",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31227v1",
-    "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
-      "作者：Abhishek Sharma、Aleksej Zelezniak",
-      "来源页：https://arxiv.org/abs/2611.31227v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31227v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:58:32Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:58",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31228v1",
-    "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-    "topics": [
-      "预印本",
-      "人工智能"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-      "作者：Daniel Theron",
-      "来源页：https://arxiv.org/abs/2611.31228v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31228v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:58:52Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:58",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31233v1",
-    "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-      "作者：Hani Alomari、Md Atabuzzaman、Chris Thomas",
-      "来源页：https://arxiv.org/abs/2611.31233v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31233v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:59:13Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31237v1",
-    "title": "Let Vision-Language Models Generate Images through Their Representations",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Let Vision-Language Models Generate Images through Their Representations",
-      "作者：JB Kim、Byungwoo Jeon、Kyungmin Lee、Hyeonmo Kang、Cheonbok Park、Shinyoung Joo、Jinwoo Shin、Jeonghoon Kim",
-      "来源页：https://arxiv.org/abs/2611.31237v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31237v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:59:32Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "arxiv-cs-2611-31240v1",
-    "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-    "topics": [
-      "预印本",
-      "机器学习"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-      "作者：Seongchan Kim、Soowon Son、Sangoh Kim、Hyunah Ko、Eunbeen Hong、Hyunkoo Lee、Sanghyun Lee、WonJun Moon",
-      "来源页：https://arxiv.org/abs/2611.31240v1"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是arXiv的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。元数据来自 arXiv，按 CC0 使用。论文全文版权仍归作者或出版方。",
-    "sourceName": "arXiv",
-    "sourceUrl": "https://arxiv.org/abs/2611.31240v1",
-    "sourcePublishedAt": {
-      "raw": "2026-11-23T18:59:52Z",
-      "year": 2026,
-      "month": 11,
-      "day": 23,
-      "time": "18:59",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "deepmind-blog-1750855042e8ceec",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "topics": [
-      "研究"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "作者：来源未提供",
-      "来源页：https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Google DeepMind的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。供稿没有摘要时不补写内容。",
-    "sourceName": "Google DeepMind",
-    "sourceUrl": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-    "sourcePublishedAt": {
-      "raw": "Thu, 05 Nov 2026 17:05:16 +0000",
-      "year": 2026,
-      "month": 11,
-      "day": 5,
-      "time": "17:05",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-5b89a2db7f60ae90",
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/rumble-2-flash"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。没有核对到可以转载正文的许可。只保存标题、时间和官方链接。",
-    "sourceName": "Hugging Face",
-    "sourceUrl": "https://huggingface.co/blog/rumble-2-flash",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "00:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
-    "coverage": {
-      "completeness": "partial",
-      "examinedCount": 1,
-      "completeCount": 1,
-      "warnings": [
-        "只核过这一条来源记录，没有对照其他来源。"
-      ]
-    },
-    "status": "published",
-    "demo": false,
-    "publication": {
-      "confirmed": true,
-      "note": "已通过公开来源允许名单。页面是否上线取决于这次静态构建有没有完成部署。"
-    }
-  },
-  {
-    "id": "huggingface-blog-aef632472a5e3af7",
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "topics": [
-      "模型"
-    ],
-    "priority": "P2",
-    "facts": [
-      "标题：Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "作者：来源未提供",
-      "来源页：https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
-    ],
-    "inferences": [
-      "仅凭这条元数据，不能判断买方、付款、交付或可复现性。"
-    ],
-    "analysis": "规则说明：这是Hugging Face 社区的公开元数据，不是会员内容，也没有做交叉核验。没有买方或付款证据，所以优先级保持 P2。这是 Hugging Face 博客上的社区帖，作者标识来自网址中的 ibm-research，不是 Hugging Face 官方公告。只保留标题、时间和链接。",
-    "sourceName": "Hugging Face 社区",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "sourcePublishedAt": {
-      "raw": "Wed, 18 Nov 2026 15:00:23 GMT",
-      "year": 2026,
-      "month": 11,
-      "day": 18,
-      "time": "15:00",
-      "timezone": "Z",
-      "certainty": "complete"
-    },
-    "updatedAt": "2026-11-25T00:44:30Z",
     "coverage": {
       "completeness": "partial",
       "examinedCount": 1,
